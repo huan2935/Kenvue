@@ -22,7 +22,6 @@ The pivot function was used to aggregate and summarize specific parts of the dat
 
 #### What external data/website are you using to aid your analysis(references)? 
 https://openweathermap.org/api
-https://uvindex.io/
 https://climate.weather.gc.ca/ 
 https://www.visualcrossing.com/ 
 
